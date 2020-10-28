@@ -13,7 +13,7 @@
 $ pip install 路径+whl文件名
 ```
 
-检查是否成功安装
+**检查是否成功安装**
 
 ```bash
 pip list
