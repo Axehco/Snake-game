@@ -10,7 +10,7 @@
 **安装命令**
 
 ```bash
-$ pip install 路径+whl文件名
+pip install 路径+whl文件名
 ```
 
 **检查是否成功安装**
